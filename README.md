@@ -8,6 +8,8 @@ pkg install git -y
 
 pkg install nodejs
 
+cd Have-funn-tools
+
 git clone https://github.com/miku208/Have-funn-tools
 
 npm install
@@ -31,7 +33,8 @@ npm install
 
 npm start
 ```
-```⚠️ PERINGATAN
+```
+⚠️ PERINGATAN
 Tools ini hanya dibuat untuk tujuan edukasi & pembelajaran.
 Dilarang digunakan untuk:
 
@@ -45,7 +48,8 @@ Aktivitas ilegal lainnya
 Segala bentuk penyalahgunaan menjadi tanggung jawab pengguna sepenuhnya.
 Developer tidak bertanggung jawab atas kerugian yang ditimbulkan.
 ```
-```⚠️ WARNING
+```
+⚠️ WARNING
 This tool is made for educational and research purposes only.
 Do NOT use it for:
 
