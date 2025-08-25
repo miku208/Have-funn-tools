@@ -1,6 +1,6 @@
 # How to use.   
 # Javascript tools
-[!](termux)
+[termux]
 ```
 pkg update && pkg upgrade -y
 
@@ -15,7 +15,7 @@ npm install
 npm start
 
 ```
-[!](linux/ubuntu)
+[linux/Ubuntu]
 ```
 sudo apt update && sudo apt upgrade -y
 
