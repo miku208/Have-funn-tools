@@ -8,9 +8,9 @@ pkg install git -y
 
 pkg install nodejs
 
-cd Have-funn-tools
-
 git clone https://github.com/miku208/Have-funn-tools
+
+cd Have-funn-tools
 
 npm install
 
